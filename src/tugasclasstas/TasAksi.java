@@ -11,6 +11,9 @@ package tugasclasstas;
  */
 public class TasAksi {
     public static void main(String[] args) {
+       Tas ransel = new Tas();
+       Tas koper = new Tas();
+       Tas tangan = new Tas();
         
     }
 }
