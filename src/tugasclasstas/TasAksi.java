@@ -34,6 +34,10 @@ public class TasAksi {
        tangan.merk="Channel";
        tangan.harga="250000";
         
+       
+       ransel.cetakInfo();
+       koper.cetakInfo();
+       tangan.cetakInfo();
         
     }
 }
