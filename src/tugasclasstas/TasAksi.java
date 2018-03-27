@@ -14,6 +14,26 @@ public class TasAksi {
        Tas ransel = new Tas();
        Tas koper = new Tas();
        Tas tangan = new Tas();
+       
+      
+       ransel.botol="Galon";
+        kemasan_besar.vAir="19L";
+        kemasan_besar.rasa="Tawar";
+        kemasan_besar.warna="Bening";
+        kemasan_besar.harga="17000";
+        
+        kemasan_sedang.botol="Fanta";
+        kemasan_sedang.vAir="5L";
+        kemasan_sedang.rasa="Manis";
+        kemasan_sedang.warna="Merah";
+        kemasan_sedang.harga="15000";
+        
+        kemasan_kecil.botol="Susu Beruang";
+        kemasan_kecil.vAir="250ml";
+        kemasan_kecil.rasa="Manis";
+        kemasan_kecil.warna="Putih";
+        kemasan_kecil.harga="8000";
+        
         
     }
 }

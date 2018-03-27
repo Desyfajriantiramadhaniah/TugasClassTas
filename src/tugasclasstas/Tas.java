@@ -17,10 +17,10 @@ public class Tas {
     String harga; 
     
     void cetakInfo(){
-        System.out.println("Botol      :"+jenis);
-        System.out.println("Volume Air :"+bahan);
-        System.out.println("Rasa       :"+warna);
-        System.out.println("Warna      :"+merk);
+        System.out.println("Jenis      :"+jenis);
+        System.out.println("bahan      :"+bahan);
+        System.out.println("Warna      :"+warna);
+        System.out.println("Merk       :"+merk);
         System.out.println("Harga      :"+harga);
     }
 }
